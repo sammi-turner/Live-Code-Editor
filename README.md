@@ -2,6 +2,8 @@
 
 # Sammi's Live Code Editor
 
+<br>
+
 A lightweight, browser-based code editor for HTML, CSS, and JavaScript with live preview and instant testing capabilities. Perfect for teaching, learning, and rapid prototyping without any setup required.
 
 <br>
