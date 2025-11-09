@@ -34,8 +34,8 @@ A lightweight, browser-based code editor for HTML, CSS, and JavaScript with live
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/live-code-editor.git
-   cd live-code-editor
+   git clone https://github.com/sammi-turner/Live-Code-Editor
+   ```
 
 2. **Open in Browser**
    Simply open `index.html` in your web browser. No server setup required!
